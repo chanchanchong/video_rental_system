@@ -1,0 +1,26 @@
+01-Outside the Wire-Action-Netflix-5-1
+02-Extraction-Action-Netflix-2-1
+03-The Meg-Action-Netflix-3-1
+04-Underwater-Action-20TH Century Studios-4-1
+05-Justice League-Action- Warner Bros. Pictures-5-1
+06-Bad Boys For Life-Comedy-Columbia Pictures-7-1
+07-Yes Day-Comedy-Grey Matter-5-1
+08-Baywatch-Comedy-Paramount Pictures-3-1
+09-Deadpool 2-Comedy-Marvel Entertainment-4-1
+10-Sonic the Hedgehog-Comedy-SEGA-5-1
+11-Bulbbul-Horror-Clean Slate Filmz-12-1
+12-#Alive-Horror-ZIP Cinema-13-1
+13-The New Mutants-Horror-Marvel Entertainment-14-1
+14-Halloween-Horror-Animal Kingdom-11-1
+15-A Quiet Place-Horror-Platinum Dunes-12-1
+16-Emma-Romance-World Pictures-13-1
+17-Hello World-Romance-Graphinical-12-1
+18-A Whisker Away-Romance-Studio Colorido-12-1
+19-Fireworks-Romance-Shaft-15-1
+20-Friend Zone-Romance-Jorkwang Films-12-1
+21-IO-Science Fiction- Netflix-19-1
+22-How It Ends-Science Fiction-Netflix-16-1
+23-Annihilation-Science Fiction-Skydance Media-18-1
+24-Another Earth-Science Fiction-Artists Public Domain-19-1
+25-The 5th Wave-Science Fiction-Material Pictures-15-1
+26-Bleach-Action-Japan-3-1

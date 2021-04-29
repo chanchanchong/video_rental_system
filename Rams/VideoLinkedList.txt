@@ -1,0 +1,27 @@
+01*A Quiet Place*Horror*Universal*3*1
+02*Alive*Horror*Universal*2*1
+03*Apostle*Horror*Universal*2*1
+04*The Babysitter*Horror*Universal*4*1
+05*IT*Horror*Universal*5*1
+06*Avengers End Game*Sci-Fi*Universal*3*1
+07*Iron Man*Sci-Fi*Universal*3*1
+08*Avatar*Sci-Fi*Universal*5*1
+09*Ready Player One*Sci-Fi*Universal*2*1
+10*Godzilla*Sci-Fi*Universal*2*1
+11*5 Feet Apart*Romance*Universal*5*1
+12*365 Days*Romance*Universal*3*1
+13*Emma*Romance*Universal*2*1
+14*A Star is Born*Romance*Universal*4*1
+15*Midnight Sun*Romance*Universal*2*1
+16*Jumanji: The Next Level*Comedy*Universal*2*1
+17*Sonic the Hedgehog*Comedy*Universal*2*1
+18*Johny English*Comedy*Universal*4*1
+19*Coming 2 America*Comedy*Universal*3*1
+20*Bad Boys For Life*Comedy*Universal*2*1
+21*John Wick*Action*Universal*3*1
+22*Men In Black*Action*Universal*2*1
+23*Kingsman*Action*Universal*3*1
+24*Baby Driver*Action*Universal*3*1
+25*Logan*Action*Universal*4*1
+26*Bleach*Action*Pod*5*1
+27*Japan*Japan*Japan*5*1

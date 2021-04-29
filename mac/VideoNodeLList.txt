@@ -1,0 +1,25 @@
+01||Freaky||Horror||Blumhouse Production||5||1
+02||Underwater||Horror||20th Century Fox||3||1
+03||Black Box||Horror||Blumhouse Production||3||1
+04||Alive||Horror||ZIP Cinema||9||1
+05||Silence||Horror||SharpSword Films||4||1
+06||Emma||Romance||Perfect World Picture||3||1
+07||365Days||Romance||Ekipa Sp||2||1
+08||Destination Wedding||Romance||Sunshine Pictures||4||1
+09||All the bright places||Romance||Echo Lake Entertainment||3||1
+10||Five feet apart||Romance||CBS Films Welle Entertainment||2||1
+11||Outside the wire||Sci-Fi||Inspire Entertainment||8||1
+12||Godzilla||Sci-Fi||Legendary Pictures||8||1
+13||How it ends||Sci-Fi||Paul Schiff Productions||4||1
+14||IO||Sci-Fi||Mandalay Pictures||9||1
+15||Mortal Engines||Sci-Fi||Universal Pictures Films||5||1
+16||6 Underground||Action||Skydance Media||3||1
+17||Bloodshot||Action||Columbia Pictures||5||1
+18||Bad boys for life||Action||Columbia Pictures||8||1
+19||blackhat||Action||Legendary Pictures||4||1
+20||extraction||Action||AGBO||7||1
+21||Murder mystery||Action||Kwity Entertainments||9||1
+22||ocean's 8||Action||Warner Bros Pictures||4||1
+23||extreme job||Action||Haegrim Pictures||5||1
+24||instant family||Action||Paramount Pictures||5||1
+25||the prom||Action||Ryan murphy productions||9||1

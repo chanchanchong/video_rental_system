@@ -1,0 +1,25 @@
+01|Halloween|Horror|Universal|3|1
+02|IT|Horror|Universal|2|1
+03|Get Out|Horror|Universal|2|1
+04|A Quiet Place|Horror|Universal|4|1
+05|Saw|Horror|Universal|5|1
+06|Interstellar|Sci-Fi|Universal|3|1
+07|Star Wars: A New Hope|Sci-Fi|Universal|4|1
+08|Back to the Future|Sci-Fi|Universal|4|1
+09|Avatar| Sci-Fi|Universal|5|1
+10|Ready Player One|Sci-Fi|Universal|2|1
+11|A Silent Voice|Romance|Japan|2|1
+12|500 Days of Summer|Romance|Universal|3|1
+13|Your Name|Romance|Japan|2|1
+14|Before Sunset|Romance|Universal|3|1
+15|A Star is Born|Romance|Universal|4|1
+16|Coco|Comedy|Universal|2|1
+17|The Interview|Comedy|Universal|3|1
+18|Tropic Thunder|Comedy|Universal|4|1
+19|Sonic the Hedgehog|Comedy|Universal|2|1
+20|Jumanji: The Next Level|Comedy|Universal| 2|1
+21|John Wick|Action|Universal|3|1
+22|Men In Black|Action|Universal|2|1
+23|Avengers: Endgame|Action|Universal|3|1
+24|Baby Driver|Action|Universal|3|1
+25|Logan|Action|Universal|4|1

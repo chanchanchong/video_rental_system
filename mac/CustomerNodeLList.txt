@@ -1,0 +1,10 @@
+01||Kevin Cabigao||Tondo,Manila
+02||James Ivan||5th Ave, Caloocan
+03||Nery Co||Grace Park, Caloocan
+04||Joshua Sy||Tandang Sora, Quezon City
+05||Michael Poe||Marilao,Bulacan
+06||Ryan Reid||San Fernando,Pampanga
+07||Dindo Ang||San Fabian,Pangasinan
+08||Jerry Pulanco||San Pablo,Laguna
+09||Marc Verano||Rosario,Pasig
+10||Erice Tan||Urdaneta,Makati

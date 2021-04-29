@@ -1,0 +1,25 @@
+1$It$Horror$New Line Cinema$28$1
+2$A Quiet Place$Horror$Sunday Night Productions$22$1
+3$Black Box$Horror$Black Bar Mitzvah$9$1
+4$The Conjuring$Horror$New Line Cinema$11$1
+5$Split$Horror$Blumhouse Productions$14$1
+6$Passengers$Romance$Columbia Pictures$4$1
+7$Me Before You$Romance$New Line Cinema$12$1
+8$Crazy Rich Asians$Romance$SK Global Entertainment$28$1
+9$The Hows of Us$Romance$ABS-CBN Film Productions$22$1
+10$Hello, Love, Goodbye$Romance$ABS-CBN Film Productions$17$1
+11$Jurassic World: Fallen Kingdom$Sci-Fi$Amblin Entertainment$83$1
+12$Jumanji: The Next Level$Sci-Fi$Columbia Pictures$99$1
+13$Maze Runner: The Death Cure$Sci-Fi$Gotham Group$32$1
+14$Ready Player One$Sci-Fi$Warner Bros. Pictures$44$1
+15$Venom$Sci-Fi$Columbia Pictures$19$1
+16$Extraction$Action$AGBO$11$1
+17$6 Underground$Action$Skydance Media$18$1
+18$The Old Guard$Action$Skydance Media$22$1
+19$John Wick:Chapter 3 Parabellum$Action$Summit Entertainment$55$1
+20$Monster Hunter$Action$Constantin Film$69$1
+21$The Boss Baby$Comedy$DreamWorks Animation$12$1
+22$Sonic the Hedgehog$Comedy$Sega Sammy Group$20$1
+23$The Interview$Comedy$Columbia Pictures$21$1
+24$Deadpool$Comedy$20th Century Fox$18$1
+25$Baywatch$Comedy$Paramount Pictures$63$1

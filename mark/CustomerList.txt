@@ -1,0 +1,12 @@
+01|John Ely|Pasig, Santo Tomas
+02|Bien Legaspi|Mandaluyong, North
+03|Nico Comsti|Kapasigan, Dr. Pilapil Street
+04|Ralph Deano|Antipolo, Binangonan Border
+05|Justine Arevalo|Pasig, Riverfront
+06|John Michael|Greenwoods, Oakmond
+07|Ria Nicole|Greenwoods, Tulip
+08|Jaymhie Santos|EastRaya, Southlane
+09|Edward Hicban|Pateros, North
+10|Caile Santiago|Mandaluyong, South
+11|Billy|USA
+12|Billy|Manila
